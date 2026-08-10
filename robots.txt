@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-popolneniem-ot-50-rubley-8598b.github.io
+Sitemap: https://kazino-s-popolneniem-ot-50-rubley-8598b.github.io/sitemap.xml
